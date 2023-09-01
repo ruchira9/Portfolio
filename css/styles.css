@@ -1,0 +1,9 @@
+body{ background-color:#FAEDF0;  }
+h1,h2,h3,h4{color:#292C6D; }
+/* h2{color: #292C6D;}
+h3{color: #292C6D;}
+h4{color: #292C6D;} */
+hr{ border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 4%;}
